@@ -20,3 +20,8 @@ My main tech stack is Python, Java, JavaScript (ES6+), React, Node.js/Express, P
 
 Reach out to me at ssophiaa.lu@gmail.com 📫 
 
+### Fun Facts:
+- I rockclimb 🧗
+- I love thriller movies 🍿
+- I had a bunny named Tofu 🐰
+
