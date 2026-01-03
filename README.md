@@ -18,7 +18,7 @@ I'm a Rutgers student pursuing Computer Science and Data Science and I like buil
 
 My main tech stack is Python, Java, JavaScript (ES6+), React, Node.js/Express, PostgreSQL, and REST APIs 🔭
 
-Reach out to me at ssophiaa.lu@gmail.com 📫 
+Reach out at ssophiaa.lu@gmail.com 📫 
 
 ### Fun Facts:
 - I rockclimb 🧗
