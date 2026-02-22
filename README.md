@@ -23,5 +23,4 @@ Reach out at ssophiaa.lu@gmail.com 📫
 ### Fun Facts:
 - I rockclimb 🧗
 - I love thriller movies 🍿
-- I had a bunny named Tofu 🐰
-
+- I'm a Scrimbassador! Use my link for 20% off Scrimba Pro: https://scrimba.com/?via=u419d342 (I may earn a commission if you subscribe)
