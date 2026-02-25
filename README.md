@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm a Rutgers student pursuing Computer Science and Data Science and I like building things that can actually be used 😄
 
-My main tech stack is Python, Java, JavaScript (ES6+), React, Node.js/Express, PostgreSQL, and REST APIs 🔭
+My tech stack includes Python, Java, JavaScript (ES6+), TypeScript, React, Node.js/Express, PostgreSQL, and REST APIs 🔭
 
 Reach out at ssophiaa.lu@gmail.com 📫 
 
