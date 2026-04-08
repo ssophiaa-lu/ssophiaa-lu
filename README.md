@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 I'm a Rutgers student pursuing Computer Science and Data Science and I like building things that can actually be used 😄
 
 My tech stack includes Python, Java, JavaScript (ES6+), TypeScript, React, Node.js/Express, PostgreSQL, and REST APIs 🔭
+![Static Badge](https://img.shields.io/badge/Python)
+
 
 Reach out at ssophiaa.lu@gmail.com 📫 
 
