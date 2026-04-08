@@ -23,4 +23,4 @@ Reach out at ssophiaa.lu@gmail.com 📫
 ### Fun Facts:
 - Mangos are my favorite fruit 🥭
 - I love thriller movies 🍿
-- I'm a Scrimbassador! Use my link for 20% off Scrimba Pro: https://scrimba.com/?via=u419d342 (I may earn a commission if you subscribe)
+- I'm a Scrimba embassador! Use my link for 20% off Scrimba Pro: https://scrimba.com/?via=u419d342 (I may earn a commission if you subscribe)
