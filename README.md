@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 I'm a Rutgers student pursuing Computer Science and Data Science and I like building things that can actually be used 😄
 
-My tech stack includes Python, Java, JavaScript (ES6+), TypeScript, React, Node.js/Express, PostgreSQL, and REST APIs 🔭
-
+My tech stack includes Python, Java, JavaScript, React, Node.js/Express, and Spring Boot. I also work with Kubernetes and Docker 🐳
 
 
 Reach out at ssophiaa.lu@gmail.com 📫 
 
 ### Fun Facts:
-- Mangos are my favorite fruit 🥭
-- I love thriller movies 🍿
-- I'm a Scrimba ambassador! Use my link for 20% off Scrimba Pro: https://scrimba.com/?via=u419d342 (I may earn a commission if you subscribe)
+- 🥭 Mangos are my favorite fruit 
+- 🍿 I love thriller movies 
+- 👀 I'm a Scrimba ambassador! Use my link for 20% off Scrimba Pro: https://scrimba.com/?via=u419d342 (I may earn a commission if you subscribe)
