@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sophia
+## Hi 👋 I'm Sophia
 
 <!--
 **ssophiaa-lu/ssophiaa-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
