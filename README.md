@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a Rutgers student pursuing Computer Science and Data Science and I like building things that can actually be used
+I'm a Rutgers student pursuing Computer Science and Data Science 
 
-My tech stack includes Python, Java, JavaScript, React, Node.js/Express, and Spring Boot. I also work with Kubernetes and Docker 🐳
+My tech stack includes Python, Java, JavaScript, React, Node.js, and Spring Boot. I also work with Kubernetes and Docker 🐳
 
 
 Reach out at ssophiaa.lu@gmail.com 📫 
