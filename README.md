@@ -18,10 +18,12 @@ I'm a Rutgers student pursuing Computer Science and Data Science
 
 My tech stack includes Python, Java, JavaScript, React, Node.js, and Spring Boot. I also work with Kubernetes and Docker 🐳
 
+Visit my portfolio [here](https://sophia-portfolio-chi.vercel.app/)!
 
-Reach out at ssophiaa.lu@gmail.com 📫 
 
 ### Fun Facts:
 - 🥭 Mangos are my favorite fruit 
 - 🍿 I love thriller movies 
 - 👀 I'm a Scrimba ambassador! Use my link for 20% off Scrimba Pro: https://scrimba.com/?via=u419d342 (I may earn a commission if you subscribe)
+
+Reach out at ssophiaa.lu@gmail.com 📫 
